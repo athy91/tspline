@@ -1,4 +1,0 @@
-﻿  Geomod.cpp
-d:\documents\visual studio 2017\projects\geomod\geomod\geomod.cpp(77): warning C4101: 'jcount': unreferenced local variable
-d:\documents\visual studio 2017\projects\geomod\geomod\geomod.cpp(157): warning C4101: 'temp': unreferenced local variable
-  Geomod.vcxproj -> d:\Documents\Visual Studio 2017\Projects\Geomod\Debug\Geomod.exe
